@@ -1,0 +1,27 @@
+.view-all-outer-container {
+  border-bottom: 1px solid gray;
+  width: 100%;
+}
+.view-all-inner-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.view-all-paragraph {
+  font-size: 22px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.view-all-button {
+  border: none;
+  outline: none;
+  background-color: #2874f0;
+  font-size: 13px;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%);
+  border-radius: 2px;
+  padding: 10px 20px;
+  font-weight: 500;
+  cursor: pointer;
+}

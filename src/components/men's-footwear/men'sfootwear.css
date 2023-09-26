@@ -1,0 +1,25 @@
+.mens-outer-container {
+  margin: 20px auto;
+  border-radius: 2px;
+  box-shadow: 0px 0px 4px 1px rgb(182, 181, 181);
+}
+.mens-inner-container {
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+  height: 300px;
+}
+.mens-items {
+  text-align: center;
+  margin-left: 2%;
+}
+.mens-images {
+  display: flex;
+  margin: 35% auto;
+}
+.mens-images {
+  transition: transform 0.2s;
+}
+.mens-images:hover {
+  transform: scale(1.1);
+}

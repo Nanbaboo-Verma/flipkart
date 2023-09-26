@@ -1,0 +1,17 @@
+.view-all-products-outer-container {
+  margin-top: 30px;
+  box-shadow: 0px 0px 4px 1px rgb(182, 181, 181);
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.view-all-products-inner-container {
+  width: 1080px;
+}
+.side-image-container {
+  border: 5px solid rgba(233, 228, 228, 0.849);
+  height: 350px;
+  width: 230px;
+  justify-content: flex-end;
+  margin-right: 0px;
+}
